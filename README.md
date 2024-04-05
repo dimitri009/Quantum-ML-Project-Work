@@ -14,3 +14,8 @@ tween different pairs of classes: airplane vs. automobile, cat vs.
  that while both models demonstrate competitive performance,
  HNNs exhibit advantages in certain aspects, suggesting their
  potential superiority in specific scenarios.
+
+ ## Contents
+
+- `models/`: Contains the Python scripts and Jupyter Notebooks implementing the CNN model and the HNN model.
+- `README.md`: This file providing an overview of the project.
