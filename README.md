@@ -18,5 +18,5 @@ tween different pairs of classes: airplane vs. automobile, cat vs.
  ## Contents
 
 - `models/`: Contains the Python scripts and Jupyter Notebooks implementing the CNN model and the HNN model.
-- `README.md`: This file providing an overview of the project.
 - `Quantum_ML_Lab.pdf`: This file is the report of the project.
+- `README.md`: This file providing an overview of the project.
